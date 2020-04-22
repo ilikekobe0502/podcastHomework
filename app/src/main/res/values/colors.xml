@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#512da8</color>
+    <color name="colorAccent">#673ab7</color>
+
+    <!-- General -->
+    <color name="black_text_1">#4a4a4a</color>
+    <color name="withe20">#33FFFEFE</color>
+    <color name="withe50">#80ffffff</color>
+
+    <!-- Home -->
+    <color name="blue_1">#0acffe</color>
+    <color name="blue_2">#495aff</color>
+    <color name="orange_1">#fad961</color>
+    <color name="orange_2">#f76b1c</color>
+    <color name="pink_1">#ed6ea0</color>
+    <color name="pink_2">#ec8c69</color>
+    <color name="green_1">#50cc7f</color>
+    <color name="green_2">#f5d100</color>
+    <color name="cyan_1">#90f7ec</color>
+    <color name="cyan_2">#32ccbc</color>
+    <color name="purple_1">#3023ae</color>
+    <color name="purple_2">#c86dd7</color>
+    <color name="purple_3">#4158d0</color>
+    <color name="purple_4">#c850c0</color>
+    <color name="white30">#4cffffff</color>
+
+    <!-- Login -->
+    <color name="black20">#33000000</color>
+    <color name="black40">#66000000</color>
+    <color name="black25">#40000000</color>
+    <color name="black30">#4c000000</color>
+    <color name="black87">#de000000</color>
+    <color name="pink_3">#fdc097</color>
+    <color name="pink_4">#ffa5a5</color>
+    <color name="pink_5">#f798a6</color>
+
+
+</resources>
