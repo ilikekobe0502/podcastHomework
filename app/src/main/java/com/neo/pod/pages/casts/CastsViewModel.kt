@@ -2,6 +2,7 @@ package com.neo.pod.pages.casts
 
 import android.app.Application
 import android.arch.lifecycle.MutableLiveData
+import android.util.Log
 import com.neo.pod.repository.Repository
 import com.neo.pod.repository.data.PodCastList
 import com.neo.pod.repository.viewModel.BaseViewModel
@@ -27,6 +28,7 @@ class CastsViewModel(
                 .subscribe({
                     podCastListResult.value = it.data
                 }, {
+                    Log.d("neo","e=  ${it}")
                     //Todo Error handler
                 }))
     }
